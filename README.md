@@ -13,7 +13,7 @@
 
 1. *Клонировать репозиторий*
    bash:
-   git clone https://github.com/ТВОЙ_НИК/qa-api-tests.git
+   git clone https://github.com/AppCreator-sudo/qa-api-tests
    cd qa-api-tests
 2. *Выполнить*
    python -m venv venv
